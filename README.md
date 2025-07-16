@@ -19,15 +19,6 @@ I am a passionate developer and enthusiast specializing in Rust backend and C# g
 
 ---
 
-## 🚀 What I Do
-
-- 🦀 Backend development in Rust with a clean architecture  
-- 🕹️ Game development in C# using modern tools and patterns   
-- ⚙️ Development of automation scripts and general-purpose programs  
-- 🧠 UI Design Development with Figma  
-
----
-
 <h1 align="center" style="border-bottom: 0 !important;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" style="vertical-align: middle !important;" />
   My Stats
@@ -39,9 +30,4 @@ I am a passionate developer and enthusiast specializing in Rust backend and C# g
   <br/>
   <img width="390" height="700" src="https://github-readme-streak-stats.herokuapp.com?user=FantRS&theme=dark&border_radius=10" />
 </div>
-
----
-
-## 🧩 Connect with Me!
-Feel free to connect with me on social media or check out my projects. I'm always looking for opportunities to learn and collaborate!
 
