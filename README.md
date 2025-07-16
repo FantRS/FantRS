@@ -26,5 +26,6 @@ I am a passionate developer and enthusiast specializing in Rust backend and C# g
 <div align="center">
   <img width="392" height="700" src="https://github-readme-stats.vercel.app/api?username=FantRS&show_icons=true&theme=vision-friendly-dark&border_radius=10" />
   <img height="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantRS&layout=compact&theme=vision-friendly-dark&border_radius=10&card_width=360" />
+    <br>
 </div>
 
