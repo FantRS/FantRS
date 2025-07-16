@@ -1,12 +1,12 @@
 <div align="center"><h1>👋 Hi, I'm Rostyslav Kashper!</h1>
 
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=dotnet&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-F5F5F5?style=flat-square&logo=unity&logoColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-164EAA?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E90FF?style=flat-square&logo=postgresql&logoColor=white)
 
 <br>
 <a href="no">
