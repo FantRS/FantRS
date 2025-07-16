@@ -17,3 +17,16 @@
 I am a passionate developer and enthusiast specializing in Rust backend and C# game development. My goal is to build software that is not only functional but also elegant — software that empowers users and inspires other developers.
 
 ---
+
+<h1 align="center" style="border-bottom: 0 !important;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" style="vertical-align: middle !important;" />
+  My Stats
+</h1>
+
+<div align="center">
+  <img width="392" height="700" src="https://github-readme-stats.vercel.app/api?username=FantRS&show_icons=true&theme=vision-friendly-dark&border_radius=10" />
+  <img height="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantRS&layout=compact&theme=vision-friendly-dark&border_radius=10&card_width=360" />
+  <br/>
+  <img width="390" height="700" src="https://github-readme-streak-stats.herokuapp.com?user=FantRS&theme=dark&border_radius=10" />
+</div>
+
