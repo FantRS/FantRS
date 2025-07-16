@@ -6,7 +6,7 @@
 ![Unity](https://img.shields.io/badge/Unity-F5F5F5?style=flat-square&logo=unity&logoColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E90FF?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E90FF?style=flat-square&logo=postgresql&logoColor=white)
 
 <br>
 <a href="no">
