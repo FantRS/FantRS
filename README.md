@@ -9,7 +9,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 <br>
-<a href="https://fantrs.github.io/my-websile/">
+<a href="https://fantrs.github.io/my-websile/" target="_blank>
     <img src="https://img.shields.io/badge/||_‎_‎_‎_‎_OPEN WEBSITE_‎_‎_‎_‎||-0969DA?style=for-the-badge&logoColor=white" alt="open website">
   </a><br><br>
 </div>
