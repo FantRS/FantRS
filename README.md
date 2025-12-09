@@ -24,8 +24,6 @@ I am a passionate developer and enthusiast specializing in Rust backend and C# g
 </h1>
 
 <div align="center">
-  <img width="392" height="700" src="https://github-readme-stats.vercel.app/api?username=FantRS&show_icons=true&theme=vision-friendly-dark&border_radius=10" />
-  <img height="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantRS&layout=compact&theme=vision-friendly-dark&border_radius=10&card_width=360" />
-    <br><br>
+  <img src="https://github-readme-stats-iota-five-15.vercel.app/api?username=FantRS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-iota-five-15.vercel.app/api/top-langs?username=FantRS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&count_private=true&order=2" height="150" alt="languages graph"  />
 </div>
-
